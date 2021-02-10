@@ -70,6 +70,6 @@ We could see that there is no change on the scores by school type as the effects
 ## Summary
 The four major changes are as the following:
 1) The average math and reading scores for students in Thomas High School have been lowered after the replacement.
-2) The passing percentages of math, reading and overall have been lowered as well after the replacement.
+2) The passing percentages of math, reading and overall for students in Thomas High School have been lowered as well after the replacement.
 3) The average math and reading scores for the district summary have been reduced.
 4) The passing percentages of math, reading and overall for the district summary have been lowered.
